@@ -1,2 +1,2 @@
-Telecom Service Customer Analysis 
+Telecom Service Customer Analysis         
 I have prepared a comprehensive dashboard for telecom customer analysis specifically focusing on California, utilizing a dataset provided by Maven Analytics. The dashboard is designed to analyze churn patterns and customer behavior for a fictional telecom company operating in the region. It provides a detailed overview of key metrics such as customer demographics, churn rates, usage patterns, and geographical insights.Additionally, I have incorporated recommendations within the dashboard aimed at improving customer retention.
